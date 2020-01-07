@@ -872,7 +872,7 @@
     }
   },
   "Python": {
-    "Version": "3.7.3",
+    "Version": "3.7.6",
     "Type": "virtualenv"
   }
 }
