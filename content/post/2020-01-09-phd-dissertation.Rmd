@@ -20,7 +20,7 @@ tags:
 [Abstract]: #abstract
 [Preface]: #preface
 [Discussion]: #discussion
-[Thesis]: https://doi.org/10.7916/d8-k1d0-kb09
+[PhD thesis]: https://doi.org/10.7916/d8-k1d0-kb09
 [Chapter 1]: https://doi.org/10.7916/d8-k1d0-kb09
 [Chapter 2]: https://www.ncbi.nlm.nih.gov/pubmed/31350889
 [Chapter 3]: https://www.ncbi.nlm.nih.gov/pubmed/28890334
@@ -29,9 +29,9 @@ tags:
 
 
 The following post includes the [Abstract], [Preface] and [Discussion] from my
-PhD thesis dissertation [@2019-01-Bryant].
-I have included them here as a convenient place to share my thoughts and
-perspective on my dissertation work.
+[PhD thesis] dissertation [@2019-01-Bryant].
+I have included them here as a convenient starting-point for sharing my
+dissertation work.
 
 - **[Abstract]** -- a high level summary of my thesis.
 - **[Preface]** -- an historical and personal introduction to each
